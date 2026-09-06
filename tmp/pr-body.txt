@@ -1,0 +1,10 @@
+Closes #2
+
+This PR adds docs/README.md as a central index and entry point for OctoAcme's project management processes. It includes:
+- A brief overview of OctoAcme's project management methodology
+- Summary of the key process stages (Initiation, Planning, Execution, Release, Retrospective)
+- Links to all existing process documents in docs/
+- Quick reference for core roles and communication cadence
+- Guidance for different audiences (new team members, delivery teams, stakeholders)
+
+Please review and merge if it meets acceptance criteria.
